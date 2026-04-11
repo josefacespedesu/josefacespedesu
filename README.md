@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0.6px solid #30363d;">
 
 ## 🧠 Sobre Mí
 
@@ -23,7 +23,7 @@ Aquí puedes escribir sobre ti ✨
 Ejemplo:
 Soy Data Scientist en formación con interés en el análisis de datos, machine learning y la toma de decisiones basada en datos. Me gusta transformar datos en información útil y generar impacto real.
 
----
+<hr style="border: 0.6px solid #30363d;">
 
 ## 🛠️ Herramientas
 
@@ -35,7 +35,7 @@ Soy Data Scientist en formación con interés en el análisis de datos, machine 
   <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
 
----
+<hr style="border: 0.6px solid #30363d;">
 
 ## 🤖 Data Science & Machine Learning
 
@@ -47,4 +47,4 @@ Soy Data Scientist en formación con interés en el análisis de datos, machine 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
----
+<hr style="border: 0.6px solid #30363d;">
