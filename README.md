@@ -1,7 +1,7 @@
 <!-- BANNER -->
-![rbm7](https://github.com/user-attachments/assets/ff7a6776-e6ae-44d8-a203-b1059a522a20)
+<img width="2400" height="707" alt="rbm7-Photoroom" src="https://github.com/user-attachments/assets/c8ac0937-8b3c-4034-80cd-fde9a35a51ae" />
 
-<h1 align="center">Hola 👋, soy Josefa Céspedes Urdanivia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Josefa Céspedes Urdanivia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
 
