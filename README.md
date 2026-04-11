@@ -1,10 +1,5 @@
 <!-- BANNER -->
-![rbm7](https://github.com/user-attachments/assets/11dc0312-cc2a-4508-956e-5d14af18e13c)
-
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1538378917747-9b1c1f3c1b1c" width="100%" />
-</p>
+![rbm7](https://github.com/user-attachments/assets/9eddb5d4-0ffc-48f2-8931-11cc08240951)
 
 <h1 align="center">Hola 👋, soy Josefa Céspedes Urdanivia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
