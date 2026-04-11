@@ -45,4 +45,22 @@ Soy Data Scientist en formación con interés en el análisis de datos, machine 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
+## 📊 Proyectos
 
+### 🔹 Análisis de Ventas
+Análisis exploratorio de datos para identificar patrones de compra.
+
+**Herramientas:** Python, Pandas, Matplotlib  
+**Resultado:** Identificación de tendencias clave en ventas  
+
+👉 [Ver proyecto](https://github.com/TU-USUARIO/NOMBRE-REPO/tree/main/proyecto-analisis-ventas)
+
+---
+
+### 🔹 Modelo de Predicción
+Modelo de machine learning para predecir comportamiento de clientes.
+
+**Herramientas:** Scikit-learn, TensorFlow  
+**Resultado:** Modelo con buen desempeño en validación  
+
+👉 [Ver proyecto](link)
