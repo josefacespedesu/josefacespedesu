@@ -10,10 +10,10 @@
 ## 📫 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/josefa-c%C3%A9spedes-urdanivia/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU-CORREO@gmail.com">
+  <a href="mailto:josefacespedesu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
