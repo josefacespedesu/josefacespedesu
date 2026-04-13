@@ -47,13 +47,26 @@ Soy Data Scientist en formación con interés en el análisis de datos, machine 
 
 ## 📊 Proyectos
 
-### 🔹 Análisis de Ventas
-Análisis exploratorio de datos para identificar patrones de compra.
+### 🔹 Análisis Exploratorio de Datos para Decisiones Comerciales
 
-**Herramientas:** Python, Pandas, Matplotlib  
-**Resultado:** Identificación de tendencias clave en ventas  
+Análisis exploratorio de datos (EDA) aplicado a un dataset de clientes de e-commerce, con el objetivo de identificar patrones de comportamiento, relaciones entre variables y oportunidades de mejora en la estrategia comercial.
 
-👉 [Ver proyecto](https://github.com/TU-USUARIO/NOMBRE-REPO/tree/main/proyecto-analisis-ventas)
+**Herramientas:** Python, Pandas, Seaborn, Matplotlib, Statsmodels  
+
+**Lo que hice:**
+- Análisis de variables y limpieza de datos  
+- Estadística descriptiva (media, mediana, dispersión)  
+- Detección de outliers  
+- Análisis de correlación entre variables  
+- Implementación de regresión lineal  
+- Visualización de datos para generación de insights  
+
+**Resultados:**
+- Identificación de patrones de compra y comportamiento de clientes  
+- Variables clave que influyen en las ventas  
+- Insights accionables para decisiones de negocio  
+
+👉 [Ver proyecto](https://github.com/josefacespedesu/josefacespedesu/tree/main/eda-ecommerce-clientes)
 
 ---
 
