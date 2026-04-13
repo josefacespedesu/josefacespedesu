@@ -90,3 +90,31 @@ Desarrollo de un modelo de machine learning para predecir el monto de compra de 
 - Identificación de variables relevantes en la predicción  
 
 👉 [Ver proyecto](https://github.com/josefacespedesu/josefacespedesu/tree/main/Predicci%C3%B3n_de_Gasto_en_Clientes_E-commerce)
+
+### 🔹 Segmentación de Clientes en Retail (Clustering)
+
+Desarrollo de un modelo de machine learning no supervisado para segmentar clientes en base a su comportamiento, utilizando técnicas de clusterización y reducción dimensional.
+
+**Herramientas:** Python, Pandas, Scikit-learn, PCA, t-SNE  
+
+**Lo que hice:**
+- Preprocesamiento de datos (limpieza, normalización, outliers)  
+- Reducción dimensional (PCA, t-SNE)  
+- Implementación de algoritmos de clustering (K-Means, DBSCAN, Jerárquico)  
+- Evaluación de clusters (método del codo, coeficiente de silueta)  
+- Visualización e interpretación de segmentos  
+
+**Resultados:**
+- Identificación de segmentos de clientes con comportamientos diferenciados  
+- Detección de patrones ocultos en los datos  
+- Generación de insights para estrategias de marketing y segmentación  
+
+👉 [Ver proyecto](https://github.com/josefacespedesu/josefacespedesu/tree/main/Segmentador%20Inteligente%20de%20Clientes%20Minoristas)
+
+## 🧠 Caso de Estudio Destacado
+
+### Predicción de Gasto en Clientes
+
+Desarrollo de un modelo de Machine Learning para predecir el gasto de clientes, incluyendo optimización y selección de modelo final (Lasso).
+
+👉 [Ver caso completo](https://github.com/josefacespedesu/josefacespedesu/tree/main/Caso-de-estudio)
