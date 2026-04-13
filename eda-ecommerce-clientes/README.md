@@ -44,7 +44,7 @@ Se analizan patrones de compra, conversión digital, segmentación de clientes y
 
 ### 🔹 Relación entre número de compras y monto total
 
-![Compras vs Monto](Relación Compras vs Monto.png).
+![Compras vs Monto](Relación_Compras_vs_Monto.png).
 
 Se observa una relación positiva entre la frecuencia de compra y el gasto total, lo que indica que clientes más activos tienden a generar mayor valor.
 
@@ -52,7 +52,7 @@ Se observa una relación positiva entre la frecuencia de compra y el gasto total
 
 ### 🔹 Relación entre visitas web y número de compras
 
-![Visitas vs Compras](Conversión digital.png).
+![Visitas vs Compras](Conversion_digital.png).
 
 El análisis muestra cómo el tráfico web se relaciona con la conversión en compras, permitiendo evaluar la efectividad del canal digital.
 
@@ -60,7 +60,7 @@ El análisis muestra cómo el tráfico web se relaciona con la conversión en co
 
 ### 🔹 Matriz de correlación
 
-![Heatmap](Matriz de correlación variables.png).
+![Heatmap](Matriz_de_correlacion_variables.png).
 
 La matriz de correlación permite identificar relaciones relevantes entre variables clave del negocio.
 
