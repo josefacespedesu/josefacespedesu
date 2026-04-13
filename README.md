@@ -70,10 +70,23 @@ Análisis exploratorio de datos (EDA) aplicado a un dataset de clientes de e-com
 
 ---
 
-### 🔹 Modelo de Predicción
-Modelo de machine learning para predecir comportamiento de clientes.
+### 🔹 Predicción de Gasto en Clientes E-commerce
 
-**Herramientas:** Scikit-learn, TensorFlow  
-**Resultado:** Modelo con buen desempeño en validación  
+Desarrollo de un modelo de machine learning para predecir el monto de compra de clientes, utilizando variables demográficas y de comportamiento digital.
 
-👉 [Ver proyecto](link)
+**Herramientas:** Python, Pandas, Scikit-learn, Statsmodels  
+
+**Lo que hice:**
+- Preprocesamiento de datos (limpieza, encoding, escalamiento)  
+- Implementación de modelos de regresión  
+- Evaluación con métricas (MAE, RMSE, R²)  
+- Validación cruzada  
+- Optimización con GridSearchCV  
+- Implementación de modelos avanzados (Boosting)  
+
+**Resultados:**
+- Modelo predictivo capaz de estimar el gasto de clientes  
+- Mejora del rendimiento mediante optimización  
+- Identificación de variables relevantes en la predicción  
+
+👉 [Ver proyecto](https://github.com/josefacespedesu/josefacespedesu/tree/main/Predicci%C3%B3n_de_Gasto_en_Clientes_E-commerce)
