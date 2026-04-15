@@ -20,9 +20,10 @@
 
 ## 🧠 Sobre Mí
 
-Aquí puedes escribir sobre ti ✨
-Ejemplo:
-Soy Data Scientist en formación con interés en el análisis de datos, machine learning y la toma de decisiones basada en datos. Me gusta transformar datos en información útil y generar impacto real.
+Soy Ingeniera Civil Industrial en transición hacia el área de Ciencia de Datos, con formación en Data Science y experiencia previa en gestión, análisis de información y mejora de procesos en el sector público.
+He desarrollado proyectos utilizando Python, SQL y Apache Spark, aplicando análisis exploratorio de datos, machine learning y procesamiento de grandes volúmenes de información para generar insights y apoyar la toma de decisiones.
+Me interesa seguir creciendo en roles de Data Analyst o Data Scientist Junior, combinando habilidades técnicas con una mirada analítica orientada a resolver problemas y optimizar procesos ✨
+
 
 ## 🛠️ Herramientas
 
